@@ -1,5 +1,5 @@
-import { Carro } from "./src/models/Carro.js";
-import { Moto } from "./src/models/Moto.js";
+import { Carro } from "./Carros.js";
+import { Moto } from "./Moto.js";
 
 const carro = new Carro({
     placa: "ABC-1234",
